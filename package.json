@@ -1,0 +1,22 @@
+{
+  "name": "slownikniemieckiego",
+  "version": "1.0.0",
+  "description": "Slownik niemieckiego na wlasny uzytek",
+  "main": "app.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scoobek/DeutschesWorterbuch.git"
+  },
+  "keywords": [
+    "Worterbuch"
+  ],
+  "author": "Scoobek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scoobek/DeutschesWorterbuch/issues"
+  },
+  "homepage": "https://github.com/Scoobek/DeutschesWorterbuch#readme"
+}
