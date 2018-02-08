@@ -1,0 +1,2 @@
+# DeutchesWorterbuch
+Własność W.Skubisz
